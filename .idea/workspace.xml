@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="821863e8-e095-4280-94a4-1966cfec6280" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="821863e8-e095-4280-94a4-1966cfec6280" name="Default Changelist" comment="Java并发笔记" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,24 +26,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="NoteBook" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NoteBook" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NoteBook" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NoteBook" type="462c0819:PsiDirectoryNode" />
-              <item name="操作系统" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -82,6 +65,7 @@
       <workItem from="1577534847239" duration="959000" />
       <workItem from="1577631711483" duration="345000" />
       <workItem from="1577714805435" duration="234000" />
+      <workItem from="1579517139552" duration="91000" />
     </task>
     <task id="LOCAL-00001" summary="..">
       <created>1577534973981</created>
@@ -111,16 +95,23 @@
       <option name="project" value="LOCAL" />
       <updated>1577714961242</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Java并发笔记">
+      <created>1579517188945</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1579517188945</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1538000" />
+    <option name="totallyTimeSpent" value="1629000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25670242" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26340482" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -157,6 +148,7 @@
     <MESSAGE value=".." />
     <MESSAGE value="操作系统笔记（1）" />
     <MESSAGE value="操作系统笔记" />
-    <option name="LAST_COMMIT_MESSAGE" value="操作系统笔记" />
+    <MESSAGE value="Java并发笔记" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java并发笔记" />
   </component>
 </project>
