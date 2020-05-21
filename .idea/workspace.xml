@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="821863e8-e095-4280-94a4-1966cfec6280" name="Default Changelist" comment="Java并发笔记" />
+    <list default="true" id="821863e8-e095-4280-94a4-1966cfec6280" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,9 +29,24 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="NoteBook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NoteBook" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NoteBook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NoteBook" type="462c0819:PsiDirectoryNode" />
+              <item name="InnoDB" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -38,7 +56,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -66,6 +84,8 @@
       <workItem from="1577631711483" duration="345000" />
       <workItem from="1577714805435" duration="234000" />
       <workItem from="1579517139552" duration="91000" />
+      <workItem from="1582867805012" duration="356000" />
+      <workItem from="1583225146527" duration="736000" />
     </task>
     <task id="LOCAL-00001" summary="..">
       <created>1577534973981</created>
@@ -102,16 +122,30 @@
       <option name="project" value="LOCAL" />
       <updated>1579517188945</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Innodb">
+      <created>1582867835996</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1582867835996</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Innodb">
+      <created>1582867863105</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1582867863105</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1629000" />
+    <option name="totallyTimeSpent" value="2721000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26340482" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27010724" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -149,6 +183,7 @@
     <MESSAGE value="操作系统笔记（1）" />
     <MESSAGE value="操作系统笔记" />
     <MESSAGE value="Java并发笔记" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java并发笔记" />
+    <MESSAGE value="Innodb" />
+    <option name="LAST_COMMIT_MESSAGE" value="Innodb" />
   </component>
 </project>
